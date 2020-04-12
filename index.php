@@ -15,6 +15,6 @@
   <p align="center"><input type="submit" value="Enviar" name="enviar"></p>
 </form>
 <hr>
-<script></script>
+<script>tr</script>
 </body>
 </html>
